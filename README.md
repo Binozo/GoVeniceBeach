@@ -18,7 +18,7 @@ import (
 func main() {
 	/* 
 	I once had a dream where HTTP Toolkit and an Android Emulator were my best friends
-	Then a Bird whispered me "CLIENT_SECRET"
+	Then a Bird named "Venice Beach App" whispered me "CLIENT_SECRET"
 	 */
 	// venicebeach.Login("<EMAIL>", "<PASSWORD>", "<CLIENT_SECRET>")
 	session := venicebeach.NewSession("<my_token>")
